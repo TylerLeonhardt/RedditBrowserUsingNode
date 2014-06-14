@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.4.3",
-    "logfmt": "^1.1.2"
+    "logfmt": "^1.1.2",
+    "restler": "2.x.x"
   },
   "engines" : { "npm" : "~1.0.20" }    
 }
