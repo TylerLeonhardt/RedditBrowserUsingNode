@@ -1,0 +1,16 @@
+{
+  "name": "RedditBrowserUsingNode",
+  "version": "0.0.0",
+  "description": "Student RnD Reddit Browser Tutorial",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.3",
+    "logfmt": "^1.1.2"
+  }
+  { "engines" : { "npm" : "~1.0.20" } }
+}
